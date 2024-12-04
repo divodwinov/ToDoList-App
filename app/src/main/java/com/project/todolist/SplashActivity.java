@@ -1,4 +1,4 @@
-package com.hactiv8.todolist3;
+package com.project.todolist;  // Pastikan nama paket di sini sesuai dengan yang ada di manifest
 
 import android.annotation.SuppressLint;
 import android.content.Intent;

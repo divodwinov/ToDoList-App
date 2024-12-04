@@ -1,8 +1,8 @@
-# Kelompok 3 - MSIB 5 Hactiv8 Final Project
+# Kelompok 2 - Project 3 Semester 3
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.tenor.com/mKTS5nbF1zcAAAAd/cute-anime-dancing.gif" width="30%" height="30%">
-</p>
+</p> -->
 
 <!--
 <p align="center">
@@ -14,6 +14,5 @@
 
 ## Anggota Kelompok
 
-- Ahmad Satriadi (JVAN-KS08-019)
-- Janwar Ksatria Pamungkas (JVAN-KS08-05)
-- Muftah Hi M Naser (JVAN-KS08-018)
+- Divo Dwinov Gyantoro (2320010200)
+- Hariz Diza Santoso (2320010200)

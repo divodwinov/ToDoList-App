@@ -1,4 +1,4 @@
-package com.hactiv8.todolist3;
+package com.project.todolist;
 
 import android.os.Bundle;
 import android.view.View;

@@ -1,4 +1,4 @@
-package com.hactiv8.todolist3;
+package com.project.todolist;
 
 import android.annotation.SuppressLint;
 import android.content.ContentValues;

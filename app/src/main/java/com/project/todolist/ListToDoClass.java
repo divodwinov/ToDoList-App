@@ -1,4 +1,4 @@
-package com.hactiv8.todolist3;
+package com.project.todolist;
 
 public class ListToDoClass {
     int idListToDo;
